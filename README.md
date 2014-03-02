@@ -2,7 +2,9 @@ Doodle-Jump-Prototype
 =====================
 
 A simple Doodle Jump game designed using SimpleGUICS2Pygame  package.
+
 To run it on your local machine, download and install SimpleGUICS2Pygame and its requirements.
+
 Install PIP : http://www.lfd.uci.edu/~gohlke/pythonlibs/#pip
 
 Install Pygame : http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame
