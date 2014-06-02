@@ -13,4 +13,4 @@ In console : pip install SimpleGUICS2Pygame
 
 To check installation you can run the script SimpleGUICS2Pygame_check.py (in a script/ directory on your installation or download directly from Bitbucket).
 
-Ha
+H
