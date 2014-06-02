@@ -1,6 +1,6 @@
 # simple Doodle Jump clone - use arrow keys to move
 # Changes made to the demo project as a part of one of the Coursera's online courses
-#This is what the change I made here
+
 import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
 import random
 
